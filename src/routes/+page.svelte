@@ -49,11 +49,11 @@
 			Vulnerable
 		</a>
 		<div class="text-gray-500 md:pr-8">
-			Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, cumque. Nostrum itaque
-			distinctio optio nisi placeat saepe aperiam, dolore vitae eveniet mollitia natus eius
-			voluptate esse libero dicta. Ipsum, id? Lorem ipsum dolor sit amet consectetur adipisicing
-			elit. Beatae, id non. Excepturi, possimus totam? Minus ex, voluptas dolor non, facilis iusto
-			quam maiores tempore beatae, numquam officia nesciunt impedit neque?
+			The happiest animals on Earth - Quokkas are one of the most cutest and sweetest animals I've
+			ever seen. But unfortunately, these teddy-bear sized treats are exclusive to the Rottnest
+			Island of Australia. Quokkas are herbivores who spend most of their time muching on leaves,
+			and other plant parts. While they are technically "wild" animals I don't think I would mind
+			keeping one of these lovely creatures in my home esspecially with their cute personality.
 		</div>
 		<div class="flex w-full flex-wrap items-center justify-between pt-4 md:flex-nowrap md:pr-8">
 			<div class="flex flex-col items-center">

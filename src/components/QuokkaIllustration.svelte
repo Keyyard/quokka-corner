@@ -1,8 +1,8 @@
 <script lang="ts">
 	export let mood: 'happy' | 'content' | 'sad' | 'very-sad' | 'sleeping' = 'happy';
 	export let isJumping: boolean = false;
-	export let isWaving: boolean = false;
-	export let isEating: boolean = false;
+	// export let isWaving: boolean = false;
+	// export let isEating: boolean = false;
 	export let isSleeping: boolean = false;
 
 	$: displayMood = isSleeping ? 'sleeping' : mood;

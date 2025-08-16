@@ -17,59 +17,57 @@
 <Navbar currentPage="status" />
 <section class="flex justify-center px-4 pt-24">
 	<div class="flex flex-col gap-6">
-		<div class="text-3xl font-bold">Vulnerable Status</div>
+		<div class="text-3xl font-bold">Their Status</div>
 		<div class="max-w-2xl space-y-6 text-gray-700">
 			<div>
-				<h3 class="mb-2 text-xl font-semibold text-black">Lorem ipsum</h3>
+				<h3 class="mb-2 text-xl font-semibold text-black">Vulnerable!</h3>
 				<p>
-					Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi suscipit fugit hic iure
-					omnis qui non? Atque deserunt rerum illum. Doloribus alias magnam neque iste fugit autem
-					deserunt similique est. Harum vel esse saepe nemo eum consectetur aperiam consequatur
-					incidunt. Ducimus cumque possimus est amet dolores id excepturi omnis, ex, non et vitae
-					impedit sit aliquid a? Quibusdam, at quam.
+					Quokkas are already small in number and found mainly on just 2 islands. And above all,
+					they have been in the <a
+						href="https://www.iucnredlist.org/species/20165/258663635"
+						class="text-blue-500 underline underline-offset-4 hover:decoration-wavy">vulnerable</a
+					> region of the IUCN Red List with a decreasing population trend. These little fur balls are
+					protected in Australia - the only place they are found.
 				</p>
 			</div>
 			<div>
-				<h3 class="mb-2 text-xl font-semibold text-black">Dolor sit</h3>
+				<h3 class="mb-2 text-xl font-semibold text-black">Wildfire</h3>
 				<p>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti quam aliquid possimus
-					commodi vero dolorum blanditiis inventore numquam, mollitia nobis voluptatibus illo
-					aperiam aspernatur nesciunt accusamus eius, sint maiores ad. Eos, placeat. Est
-					repudiandae, nostrum non quo ipsam sapiente totam laudantium illum tempore rem earum
-					possimus ullam repellat debitis modi fuga sit magni optio tenetur. Accusamus aperiam
-					similique fugit ipsam!
+					A large wildfire that raged across southwest Australia in 2015 devastated a significant
+					population of mainland quokkas. The Northcliffe fire burnt 98,000 hectares. Today, around
+					10,000 Quokkas live on Rottnest Island, with very small populations also surviving in the
+					mainland's south-west forests such as those near Northcliffe. While they're doing
+					relatively well on the islands, mainland populations face much greater threats and
+					continue to decline.
 				</p>
 			</div>
 			<div>
-				<h3 class="mb-2 text-xl font-semibold text-black">Amet consectetur</h3>
+				<h3 class="mb-2 text-xl font-semibold text-black">Climate change</h3>
 				<p>
-					Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam tenetur vitae officia!
-					Molestias, deleniti assumenda at mollitia atque odio, labore cum expedita libero,
-					distinctio ea accusantium temporibus provident amet quod. Labore animi maxime fugit quam
-					ullam nihil ad sint, in inventore explicabo. Repellat nam saepe, quia tempora eius tempore
-					nostrum? Eum qui et nulla, reiciendis sit ratione voluptate officia facere?
+					As southwest of Western Australia dries due to climate change, there will be more habitat
+					loss at the quokka's expense. Mainland populations have been historically restricted to
+					areas with an annual average rainfall greater than 700mm and their current distribution is
+					almost completely confined to the 1000mm rainfall isohyet (for those of us who are less
+					into geography this simply means an imaginary line on a map connecting all the points
+					having same amount of rainfall in a given period).
 				</p>
 			</div>
 			<div>
-				<h3 class="mb-2 text-xl font-semibold text-black">Adipisicing elit</h3>
+				<h3 class="mb-2 text-xl font-semibold text-black">Habitat loss</h3>
 				<p>
-					Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur deleniti, aliquid
-					quisquam magni labore quae praesentium dolores quas corrupti porro incidunt officiis,
-					nostrum ipsa qui. Veritatis iste minus provident fuga! Ea, quo obcaecati eum aperiam rerum
-					facilis neque fuga repellendus qui laboriosam nulla perspiciatis vitae quibusdam
-					voluptates provident dolore sit molestiae iste? Dolores aut obcaecati facilis, voluptatum
-					deleniti natus velit!
+					Following extensive population declines in the 20th century, by 1992, the quokka's
+					distribution on the mainland had been reduced by more than 50% to an area of about 17,800
+					km&sup2; from an original 41,200 km&sup2;. Their vulnerable status was a result of this as
+					well as predation by larger and feral animals such as foxes and cats and several other
+					factors.
 				</p>
 			</div>
 			<div>
-				<h3 class="mb-2 text-xl font-semibold text-black">Commodi suscipit</h3>
+				<h3 class="mb-2 text-xl font-semibold text-black">Threat from predators</h3>
 				<p>
-					Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique illo doloribus sed,
-					laborum architecto porro eos aliquam saepe, tempora nobis voluptatem! Voluptate labore
-					expedita vero beatae doloribus enim hic? Iste? Pariatur et, doloremque maiores sint
-					deserunt aspernatur incidunt. Veniam suscipit alias dignissimos, magnam omnis, animi saepe
-					distinctio odio rerum vitae iste eaque debitis incidunt quo vero tempora ab esse
-					voluptatem.
+					Predators like the fox which was introduced in Australia for hunting purposes are a major
+					threat to cute little quokkas as they evolved without these preadtors and thus lack the
+					required defense strategies. Besides foxes, feral cats, also pose a threat to the species.
 				</p>
 			</div>
 		</div>

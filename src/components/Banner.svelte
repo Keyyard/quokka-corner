@@ -1,6 +1,6 @@
 <a href="https://zoo.hackclub.com"
-	><div id="zoo_linkBanner">
-		<h1>
+	><div id="zoo_linkBanner" class="flex items-center justify-center">
+		<h1 class="flex items-center justify-center gap-2">
 			CHECK OUT MORE AT THE ZOO <span class="bannerIcon icon-[mdi--pets]"></span>
 		</h1>
 	</div></a
