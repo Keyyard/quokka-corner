@@ -39,7 +39,7 @@
 			hunger = Math.max(0, hunger - timeDiff * 0.3);
 			energy = Math.max(0, energy - timeDiff * (10 - hunger / 10));
 		} else {
-			energy = Math.min(100, energy + timeDiff * 2);
+			energy = Math.min(100, energy + timeDiff * Math.round(Math.random() * 5));
 		}
 
 		updateMood();
@@ -150,7 +150,7 @@
 					}}
 				>
 					{#key currentMood}
-						<QuokkaIllustration mood={currentMood} {isJumping} {isWaving} {isEating} {isSleeping} />
+						<QuokkaIllustration mood={currentMood} {isJumping} {isSleeping} />
 					{/key}
 				</button>
 				<div
