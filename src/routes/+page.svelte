@@ -49,11 +49,11 @@
 			Vulnerable
 		</a>
 		<div class="text-gray-500 md:pr-8">
-			The happiest animals on Earth - Quokkas are one of the most cutest and sweetest animals I've
+			The happiest animal on Earth -- Quokkas are one of the cutest and sweetest animals I've
 			ever seen. But unfortunately, these teddy-bear sized treats are exclusive to the Rottnest
-			Island of Australia. Quokkas are herbivores who spend most of their time muching on leaves,
-			and other plant parts. While they are technically "wild" animals I don't think I would mind
-			keeping one of these lovely creatures in my home esspecially with their cute personality.
+			Island of Australia. Quokkas are herbivores who spend most of their time munching on leaves,
+			and other plant parts. While they are technically "wild" animals, I don't think I would mind
+			keeping one of these lovely creatures in my home especially with their cute personality.
 		</div>
 		<div class="flex w-full flex-wrap items-center justify-between pt-4 md:flex-nowrap md:pr-8">
 			<div class="flex flex-col items-center">
